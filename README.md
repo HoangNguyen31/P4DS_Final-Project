@@ -17,4 +17,5 @@
 - Khám phá dữ liệu.
 - Đưa ra câu hỏi có ý nghĩa và trả lời câu hỏi.
 
-## Phân công công việc: [Xem tại đây](https://docs.google.com/spreadsheets/d/1yCc-c0SH010qxMk4XSCUfZFLiUvuD5p70btdb0l9YhU/edit?usp=sharing)
+## Phân công công việc: 
+- [Xem tại đây](https://docs.google.com/spreadsheets/d/1yCc-c0SH010qxMk4XSCUfZFLiUvuD5p70btdb0l9YhU/edit?usp=sharing)
