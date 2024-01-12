@@ -3,7 +3,7 @@
 -----------------------------------------------------------
 ## Chủ đề: 
 - Tên chủ đề: Mức lương cho công việc Khoa học Dữ liệu (Data Science Job Salaries).
-- Nguồn dữ liệu: [Xem tại đây](https://salaries.ai-jobs.net/)
+- Nguồn dữ liệu: <a href="https://salaries.ai-jobs.net/" target="_blank">Xem tại đây</a>
 ## Thông tin nhóm:
 - Nhóm bao gồm các thành viên:
 
